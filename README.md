@@ -120,7 +120,7 @@
 ### <div align="center">🐍 GitHub Contribution Snake</div>
 
 <p align="center">
-  <img src="https://github.com/jsom98/JeffreySom/blob/output/github-snake-dark.svg" alt="snake gif" />
+  <img src="https://github.com/jsom98/jsom98/blob/output/github-snake-dark.svg" alt="snake gif" />
 </p>
 
 ---
