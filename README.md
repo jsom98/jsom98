@@ -10,11 +10,17 @@
 ### <div align="center">📊 My GitHub Stats</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsom98&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=jsom98&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsom98&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsom98&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=7200)
+
+<br>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jsom98&theme=tokyonight&hide_border=true&cache_seconds=7200)
+
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsom98&layout=compact&theme=tokyonight&cache_seconds=7200)
+
 </p>
 
 ---
@@ -46,7 +52,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/WINDOWS SERVER-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/WINDOWS%20SERVER-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/VMWARE-607078?style=for-the-badge&logo=vmware&logoColor=white" />
   <img src="https://img.shields.io/badge/CROWDSTRIKE-E20C18?style=for-the-badge&logo=crowdstrike&logoColor=white" />
   <img src="https://img.shields.io/badge/CYBERARK-002E5D?style=for-the-badge&logo=cyberark&logoColor=white" />
@@ -55,9 +61,9 @@
   <img src="https://img.shields.io/badge/VARONIS-29367C?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LAKESIDE-0070C0?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SUMO LOGIC-222F5B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SUMO%20LOGIC-222F5B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/QRADAR-051729?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/PALO ALTO-ED1C24?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/PALO%20ALTO-ED1C24?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
   <img src="https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/BASH-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
