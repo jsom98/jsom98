@@ -82,15 +82,19 @@ jeffrey@homelab:~$ ls ~/hobbies
 <!-- ===================== PROJECTS ===================== -->
 <h2 align="center">🔥 Projects That Tell My Story</h2>
 
-| | Project | What It's About |
-|:-:|---|---|
-| 🍯 | [**Azure Honeynet**](https://github.com/jsom98/Azure-Projects/blob/main/Azure%20Honeynet.md) | A deliberately exposed Azure environment for capturing real-world attacks |
-| 🧠 | [**KQL Alerts for Microsoft Sentinel**](https://github.com/jsom98/Azure-Projects/blob/main/KQL%20Alerts%20for%20Microsoft%20Sentinel.md) | Custom detection rules written in KQL |
-| 🚨 | [**Incident Response Playbooks**](https://github.com/jsom98/Azure-Projects/blob/main/Incident%20Response%20in%20Microsoft%20Sentinel.md) | Investigating and responding to incidents in Sentinel |
-| 🧹 | [**Azure 24-Hour Cleanup**](https://github.com/jsom98/Azure-Projects/blob/main/Azure%20Environment%20BEFORE%20Securing%20AND%20then%20AFTER.md) | Comparing attack traffic before and after hardening |
-| 🔍 | [**OpenVAS + Azure**](https://github.com/jsom98/Azure-Projects/blob/main/OpenVAS.md) | Vulnerability scanning and remediation in the cloud |
-| 📋 | [**RBAC Reports**](https://github.com/jsom98/Azure-Projects/blob/main/Users%20and%20Permissions%20Report.md) | Auditing users, roles, and permissions |
-| 🛡️ | [**Qualys Deployment**](https://github.com/jsom98/Azure-Projects/blob/main/Qualys.md) | Rolling out Qualys for vulnerability management |
+<div align="center">
+
+| Project | What It's About |
+|:---|:---|
+| 🍯 [**Azure Honeynet**](https://github.com/jsom98/Azure-Projects/blob/main/Azure%20Honeynet.md) | A deliberately exposed Azure environment for capturing real-world attacks |
+| 🧠 [**KQL Alerts for Microsoft Sentinel**](https://github.com/jsom98/Azure-Projects/blob/main/KQL%20Alerts%20for%20Microsoft%20Sentinel.md) | Custom detection rules written in KQL |
+| 🚨 [**Incident Response Playbooks**](https://github.com/jsom98/Azure-Projects/blob/main/Incident%20Response%20in%20Microsoft%20Sentinel.md) | Investigating and responding to incidents in Sentinel |
+| 🧹 [**Azure 24-Hour Cleanup**](https://github.com/jsom98/Azure-Projects/blob/main/Azure%20Environment%20BEFORE%20Securing%20AND%20then%20AFTER.md) | Comparing attack traffic before and after hardening |
+| 🔍 [**OpenVAS + Azure**](https://github.com/jsom98/Azure-Projects/blob/main/OpenVAS.md) | Vulnerability scanning and remediation in the cloud |
+| 📋 [**RBAC Reports**](https://github.com/jsom98/Azure-Projects/blob/main/Users%20and%20Permissions%20Report.md) | Auditing users, roles, and permissions |
+| 🛡️ [**Qualys Deployment**](https://github.com/jsom98/Azure-Projects/blob/main/Qualys.md) | Rolling out Qualys for vulnerability management |
+
+</div>
 
 ---
 
@@ -102,12 +106,16 @@ jeffrey@homelab:~$ ls ~/hobbies
   Built for engineers, by an engineer.</i>
 </p>
 
-| | Guide | Description |
-|:-:|---|---|
-| ☁️ | [**Cloudflare DoH Setup**](https://github.com/jsom98/KnowledgeBase/blob/main/cloudflare-doh-setup.md) | Encrypt your DNS lookups with DNS-over-HTTPS |
-| 🛡️ | [**Pi-hole Setup & Configuration**](https://github.com/jsom98/KnowledgeBase/blob/main/pihole-setup.md) | Network-wide ad and tracker blocking |
-| 🔐 | [**Unbound with Pi-hole**](https://github.com/jsom98/KnowledgeBase/blob/main/pihole-unbound-setup.md) | Run your own recursive DNS resolver |
-| 📡 | [**Static IP – Raspberry Pi**](https://github.com/jsom98/KnowledgeBase/blob/main/raspberry-pi-static-ip-setup.md) | Give your Pi a permanent address on your network |
+<div align="center">
+
+| Guide | Description |
+|:---|:---|
+| ☁️ [**Cloudflare DoH Setup**](https://github.com/jsom98/KnowledgeBase/blob/main/cloudflare-doh-setup.md) | Encrypt your DNS lookups with DNS-over-HTTPS |
+| 🛡️ [**Pi-hole Setup & Configuration**](https://github.com/jsom98/KnowledgeBase/blob/main/pihole-setup.md) | Network-wide ad and tracker blocking |
+| 🔐 [**Unbound with Pi-hole**](https://github.com/jsom98/KnowledgeBase/blob/main/pihole-unbound-setup.md) | Run your own recursive DNS resolver |
+| 📡 [**Static IP – Raspberry Pi**](https://github.com/jsom98/KnowledgeBase/blob/main/raspberry-pi-static-ip-setup.md) | Give your Pi a permanent address on your network |
+
+</div>
 
 <p align="center">
   <a href="https://github.com/jsom98/KnowledgeBase"><b>🧠 Explore the full KnowledgeBase →</b></a>
