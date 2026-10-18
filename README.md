@@ -1,162 +1,138 @@
-<!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00F7FF&height=220&section=header&text=Jeffrey%20Som&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Security%20Engineer%20%E2%80%A2%20Cyber%20Defender%20%E2%80%A2%20Cloud%20Tinkerer&descAlignY=58&descSize=18" alt="Jeffrey Som banner" />
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+clouds+into+fortresses...;Sniffing+threats+in+the+logs...;Building+with+defense+in+mind.;Every+alert+has+a+root." alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jeffrey-som/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/jsom98"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://github.com/jsom98/KnowledgeBase"><img src="https://img.shields.io/badge/KnowledgeBase-00F7FF?style=for-the-badge&logo=bookstack&logoColor=black" alt="KnowledgeBase" /></a>
-  <img src="https://komarev.com/ghpvc/?username=jsom98&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+# Jeffrey Som
+
+### Security Engineer · Detection & Response · Cloud Security
+
+**I build, secure, and troubleshoot systems — from enterprise environments to the home lab.**
+
+[![Portfolio](https://img.shields.io/badge/Explore_Projects-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsom98?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-som/)
+[![Knowledge Base](https://img.shields.io/badge/Knowledge_Base-0D9488?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/jsom98/KnowledgeBase)
+
+<sub>📍 Cincinnati, Ohio &nbsp;·&nbsp; 🎓 B.S. Cybersecurity, University of Cincinnati</sub>
+
+</div>
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
-<h2 align="center">👨🏾‍💻 About Me</h2>
+## `> whoami`
 
-```bash
-jeffrey@homelab:~$ whoami
-> Jeffrey Som — Security Engineer | Cloud Defender | Raspberry Pi Tinkerer
+```text
+jeffrey@homelab:~$ ./about-me
 
-jeffrey@homelab:~$ cat about.txt
-> 📍 Based in:   Cincinnati, Ohio
-> 🎓 Education:  B.S. in Cybersecurity — University of Cincinnati
-> 🎯 Focus:      Azure Security • Threat Detection • Vulnerability Management
->                Endpoint Defense • Automation with PowerShell & Bash
-
-jeffrey@homelab:~$ ls ~/hobbies
-> 🛠️ homelabs/   🍳 cooking/   🎮 anime-and-gaming/   💛 uplifting-my-congregation/
+ROLE       Security Engineer
+FOCUS      Threat Detection | Vulnerability Management | Endpoint Security
+INTERESTS  Cloud Infrastructure | Security Automation | Home Labs
+APPROACH   Investigate deeply. Document clearly. Build defensively.
 ```
 
-> 🎯 *I'm passionate about simplifying complex problems, fortifying digital systems, and mentoring others along the way.*
-> *Every alert has a root. I dig until I find it.*
+I enjoy taking complex security problems, finding the root cause, and turning the solution into something repeatable. This GitHub is where I share hands-on labs, detection engineering exercises, infrastructure experiments, and useful technical notes.
 
----
+Outside security: Raspberry Pi projects, gaming, anime, cooking, and community involvement.
 
-<!-- ===================== TECH STACK ===================== -->
-<h2 align="center">🧰 Tech Arsenal</h2>
+## `> featured_projects`
 
-<p align="center"><b>☁️ Cloud & Infrastructure</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/WINDOWS%20SERVER-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMWARE-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/MECM-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
+> **Start here.** These projects demonstrate my security workflow — from identifying exposure to detecting activity and improving defenses.
 
-<p align="center"><b>🛡️ Security & Endpoint</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/CROWDSTRIKE-E20C18?style=for-the-badge&logo=crowdstrike&logoColor=white" />
-  <img src="https://img.shields.io/badge/CYBERARK-002E5D?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/QUALYS-ED1C24?style=for-the-badge&logo=qualys&logoColor=white" />
-  <img src="https://img.shields.io/badge/PROOFPOINT-333333?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/VARONIS-29367C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LAKESIDE-0070C0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/PALO%20ALTO-ED1C24?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
-</p>
-
-<p align="center"><b>📡 SIEM & Logging</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SUMO%20LOGIC-222F5B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/QRADAR-051729?style=for-the-badge&logoColor=white" />
-</p>
-
-<p align="center"><b>⌨️ Scripting & Tools</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/BASH-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-</p>
-
----
-
-<!-- ===================== PROJECTS ===================== -->
-<h2 align="center">🔥 Projects That Tell My Story</h2>
+| Project | What you'll find |
+| :--- | :--- |
+| **[🍯 Azure Honeynet](https://github.com/jsom98/Azure-Projects/blob/main/Azure%20Honeynet.md)** | An intentionally exposed Azure lab for observing attack activity and understanding common threat patterns. |
+| **[🔎 Microsoft Sentinel: KQL Detections](https://github.com/jsom98/Azure-Projects/blob/main/KQL%20Alerts%20for%20Microsoft%20Sentinel.md)** | KQL queries and custom detection logic for security monitoring. |
+| **[🚨 Sentinel Incident Response](https://github.com/jsom98/Azure-Projects/blob/main/Incident%20Response%20in%20Microsoft%20Sentinel.md)** | Investigation and response workflows for security events. |
+| **[🛡️ Azure Hardening: Before & After](https://github.com/jsom98/Azure-Projects/blob/main/Azure%20Environment%20BEFORE%20Securing%20AND%20then%20AFTER.md)** | Comparing observed attack traffic before and after environment hardening. |
+| **[🧪 OpenVAS in Azure](https://github.com/jsom98/Azure-Projects/blob/main/OpenVAS.md)** | Vulnerability scanning, findings, and remediation concepts. |
+| **[🔐 Access & Permissions Audit](https://github.com/jsom98/Azure-Projects/blob/main/Users%20and%20Permissions%20Report.md)** | Azure role and permission visibility through reporting. |
+| **[📋 Qualys Deployment](https://github.com/jsom98/Azure-Projects/blob/main/Qualys.md)** | Vulnerability-management deployment documentation. |
 
 <div align="center">
 
-| Project | What It's About |
-|:---|:---|
-| 🍯 [**Azure Honeynet**](https://github.com/jsom98/Azure-Projects/blob/main/Azure%20Honeynet.md) | A deliberately exposed Azure environment for capturing real-world attacks |
-| 🧠 [**KQL Alerts for Microsoft Sentinel**](https://github.com/jsom98/Azure-Projects/blob/main/KQL%20Alerts%20for%20Microsoft%20Sentinel.md) | Custom detection rules written in KQL |
-| 🚨 [**Incident Response Playbooks**](https://github.com/jsom98/Azure-Projects/blob/main/Incident%20Response%20in%20Microsoft%20Sentinel.md) | Investigating and responding to incidents in Sentinel |
-| 🧹 [**Azure 24-Hour Cleanup**](https://github.com/jsom98/Azure-Projects/blob/main/Azure%20Environment%20BEFORE%20Securing%20AND%20then%20AFTER.md) | Comparing attack traffic before and after hardening |
-| 🔍 [**OpenVAS + Azure**](https://github.com/jsom98/Azure-Projects/blob/main/OpenVAS.md) | Vulnerability scanning and remediation in the cloud |
-| 📋 [**RBAC Reports**](https://github.com/jsom98/Azure-Projects/blob/main/Users%20and%20Permissions%20Report.md) | Auditing users, roles, and permissions |
-| 🛡️ [**Qualys Deployment**](https://github.com/jsom98/Azure-Projects/blob/main/Qualys.md) | Rolling out Qualys for vulnerability management |
+**[Browse all projects →](https://github.com/jsom98?tab=repositories)**
 
 </div>
 
+## `> tools_and_technologies`
+
+<details open>
+<summary><b>🛡️ Security operations & endpoint protection</b></summary>
+<br>
+
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E20C18?style=flat-square&logoColor=white)
+![CyberArk](https://img.shields.io/badge/CyberArk-003B70?style=flat-square&logoColor=white)
+![Qualys](https://img.shields.io/badge/Qualys-ED1C24?style=flat-square&logoColor=white)
+![Proofpoint](https://img.shields.io/badge/Proofpoint-383838?style=flat-square&logoColor=white)
+![Varonis](https://img.shields.io/badge/Varonis-29367C?style=flat-square&logoColor=white)
+![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-EA580C?style=flat-square&logoColor=white)
+![Lakeside](https://img.shields.io/badge/Lakeside-0369A1?style=flat-square&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud, infrastructure & administration</b></summary>
+<br>
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logoColor=white)
+![MECM](https://img.shields.io/badge/MECM-2563EB?style=flat-square&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>📡 SIEM, logging & detection</b></summary>
+<br>
+
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-2563EB?style=flat-square&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-151515?style=flat-square&logo=splunk&logoColor=white)
+![Sumo Logic](https://img.shields.io/badge/Sumo_Logic-222F5B?style=flat-square&logoColor=white)
+![QRadar](https://img.shields.io/badge/IBM_QRadar-051729?style=flat-square&logo=ibm&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0D9488?style=flat-square&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>⌨️ Automation & developer tools</b></summary>
+<br>
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</details>
+
+## `> knowledge_base`
+
+Practical documentation, written to be usable the next time a problem appears.
+
+| Guide | Purpose |
+| :--- | :--- |
+| [🌐 Cloudflare DNS-over-HTTPS](https://github.com/jsom98/KnowledgeBase/blob/main/cloudflare-doh-setup.md) | Configure encrypted upstream DNS resolution. |
+| [🕳️ Pi-hole Setup](https://github.com/jsom98/KnowledgeBase/blob/main/pihole-setup.md) | Deploy network-wide DNS filtering. |
+| [🔒 Unbound + Pi-hole](https://github.com/jsom98/KnowledgeBase/blob/main/pihole-unbound-setup.md) | Set up recursive DNS resolution. |
+| [📌 Raspberry Pi Static IP](https://github.com/jsom98/KnowledgeBase/blob/main/raspberry-pi-static-ip-setup.md) | Keep home-lab services at a predictable IP address. |
+
+**[Open the full KnowledgeBase →](https://github.com/jsom98/KnowledgeBase)**
+
+## `> certifications`
+
+[![Qualys VMDR](https://img.shields.io/badge/Qualys-VMDR-ED1C24?style=for-the-badge&logoColor=white)](https://github.com/jsom98/Certifications/blob/main/Vulnerability%20Management%20Detection%20and%20Response.pdf)
+[![Qualys CSAM](https://img.shields.io/badge/Qualys-CSAM-ED1C24?style=for-the-badge&logoColor=white)](https://github.com/jsom98/Certifications/blob/main/Cyber%20Security%20Asset%20Management.pdf)
+[![Qualys Cloud Agent](https://img.shields.io/badge/Qualys-Cloud_Agent-ED1C24?style=for-the-badge&logoColor=white)](https://github.com/jsom98/Certifications/blob/main/Cloud%20Agent.pdf)
+
 ---
-
-<!-- ===================== KNOWLEDGEBASE ===================== -->
-<h2 align="center">📚 KnowledgeBase</h2>
-
-<p align="center">
-  <i>A curated, evolving hub of technical docs for IT, cybersecurity, infrastructure, and automation.<br>
-  Built for engineers, by an engineer.</i>
-</p>
 
 <div align="center">
 
-| Guide | Description |
-|:---|:---|
-| ☁️ [**Cloudflare DoH Setup**](https://github.com/jsom98/KnowledgeBase/blob/main/cloudflare-doh-setup.md) | Encrypt your DNS lookups with DNS-over-HTTPS |
-| 🛡️ [**Pi-hole Setup & Configuration**](https://github.com/jsom98/KnowledgeBase/blob/main/pihole-setup.md) | Network-wide ad and tracker blocking |
-| 🔐 [**Unbound with Pi-hole**](https://github.com/jsom98/KnowledgeBase/blob/main/pihole-unbound-setup.md) | Run your own recursive DNS resolver |
-| 📡 [**Static IP – Raspberry Pi**](https://github.com/jsom98/KnowledgeBase/blob/main/raspberry-pi-static-ip-setup.md) | Give your Pi a permanent address on your network |
+### Let's connect
+
+Interested in detection engineering, cloud security, or building practical home labs?
+
+**[LinkedIn](https://www.linkedin.com/in/jeffrey-som/) · [GitHub Projects](https://github.com/jsom98?tab=repositories) · [KnowledgeBase](https://github.com/jsom98/KnowledgeBase)**
+
+<sub>Build thoughtfully. Secure deliberately. Keep learning.</sub>
 
 </div>
-
-<p align="center">
-  <a href="https://github.com/jsom98/KnowledgeBase"><b>🧠 Explore the full KnowledgeBase →</b></a>
-</p>
-
----
-
-<!-- ===================== CERTIFICATIONS ===================== -->
-<h2 align="center">📜 Certifications</h2>
-
-<p align="center">
-  <a href="https://github.com/jsom98/Certifications/blob/main/Vulnerability%20Management%20Detection%20and%20Response.pdf"><img src="https://img.shields.io/badge/Qualys-VMDR-ED1C24?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys VMDR" /></a>
-  <a href="https://github.com/jsom98/Certifications/blob/main/Cyber%20Security%20Asset%20Management.pdf"><img src="https://img.shields.io/badge/Qualys-CSAM-ED1C24?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys CSAM" /></a>
-  <a href="https://github.com/jsom98/Certifications/blob/main/Cloud%20Agent.pdf"><img src="https://img.shields.io/badge/Qualys-Cloud%20Agent-ED1C24?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys Cloud Agent" /></a>
-</p>
-
----
-
-<!-- ===================== STATS ===================== -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jsom98&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=7200" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsom98&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jsom98&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/jsom98/jsom98/blob/output/github-snake-dark.svg" alt="Contribution snake" />
-</p>
-
----
-
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  💬 <i>"Tech is my craft. Cybersecurity is my canvas."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:203a43,100:0f2027&height=120&section=footer" alt="footer wave" />
-</p>
